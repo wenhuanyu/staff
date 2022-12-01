@@ -1,0 +1,4 @@
+.DS_Store
+dist/*
+unpackage/*
+node_modules/*

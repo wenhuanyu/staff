@@ -1,0 +1,1816 @@
+{
+	"pages": [ 
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "海阳之家",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#cfe8fe",
+				"navigationBarTextStyle": "black"
+			}
+		},
+		{
+			"path": "pages/login/index",
+			"style": {
+				"navigationBarTitleText":"登录"
+			}
+		},
+		{
+			"path": "pages/index/orderSettlement/addWorkOrder",
+			"style": {
+				"navigationBarTitleText":"新建工单"
+			}
+		},
+		{
+			"path": "pages/index/orderSettlement/template/product_delivery",
+			"style": {
+				"navigationBarTitleText":"产品配送"
+			}
+		},
+		{
+			"path": "pages/index/orderSettlement/template/product_install",
+			"style": {
+				"navigationBarTitleText":"新建工单"
+			}
+		},
+		{
+			"path": "pages/index/orderSettlement/template/quality_order",
+			"style": {
+				"navigationBarTitleText":"异常工单"
+			}
+		},
+		{
+			"path": "pages/search/search",
+			"style": {
+				"navigationBarTitleText":"搜索"
+			}
+		},
+		{
+			"path": "pages/search/searchList",
+			"style": {
+				"navigationBarTitleText":"搜索列表"
+			}
+		},
+		{
+			"path": "pages/index/myCustomer/index",
+			"style": {
+				"navigationBarTitleText":"客户列表",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/myCustomer/customerStatis",
+			"style": {
+				"navigationBarTitleText": "客户统计"
+			}
+		},
+		{
+			"path": "pages/index/waterCustomer/index",
+			"style": {
+				"navigationBarTitleText":"公海客户"
+			}
+		},
+		{
+			"path": "pages/template/visitTitle",
+			"style": {
+				"navigationBarTitleText":"拜访计划标题模版"
+			}
+		},
+		{
+			"path": "pages/template/visitRemark",
+			"style": {
+				"navigationBarTitleText":"拜访计划备注模版"
+			}
+		},
+		{
+			"path": "pages/template/relation_customer",
+			"style": {
+				"navigationBarTitleText":"关联客户"
+			}
+		},
+		{
+			"path": "pages/template/relation_staff",
+			"style": {
+				"navigationBarTitleText":"指派员工"
+			}
+		},
+		{
+			"path": "pages/selectMember/selectMember",
+			"style": {
+				"navigationBarTitleText":"选择成员"
+			}
+		},
+		{
+			"path": "pages/news/index",
+			"style": {
+				"navigationBarTitleText":"消息"
+			}
+		},
+		{
+			"path": "pages/news/toduList",
+			"style": {
+				"navigationBarTitleText":"待办事项"
+			}
+		},
+		{
+			"path": "pages/news/timeoutTask",
+			"style": {
+				"navigationBarTitleText":"超时任务"
+			}
+		},
+		{
+			"path": "pages/news/work_dynamics",
+			"style": {
+				"navigationBarTitleText":"工作动态"
+			}
+		},
+		{
+			"path": "pages/news/journer",
+			"style": {
+				"navigationBarTitleText":"日志"
+			}
+		},
+		{
+			"path": "pages/user/index",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#cfe8fe",
+				"navigationBarTextStyle": "black"
+			}
+		},
+		{
+			"path": "pages/user/set",
+			"style": {
+				"navigationBarTitleText":"设置"
+			}
+		},
+		{
+			"path": "pages/user/bindaccount",
+			"style": {
+				"navigationBarTitleText":"绑定账号"
+			}
+		},
+		{
+			"path": "pages/map/index",
+			"style": {
+				"navigationBarTitleText":"地图"
+			}
+		},
+		{
+			"path": "pages/index/productManagements/index",
+			"style": {
+				"navigationBarTitleText":"产品管理"
+			}
+		},
+		{
+			"path": "pages/index/productManagements/addProduct",
+			"style": {
+				"navigationBarTitleText":"添加产品"
+			}
+		},
+		{
+			"path": "pages/index/contractManagements/index",
+			"style": {
+				"navigationBarTitleText":"合同管理",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/index/contractManagements/contractStatis",
+			"style": {
+				"navigationBarTitleText": "合同统计"
+			}
+		},
+		{
+			"path": "pages/index/contractManagements/contractDetail",
+			"style": {
+				"navigationBarTitleText": "合同详情"
+			}
+		},
+		{
+			"path": "pages/index/contractManagements/to_edit_address",
+			"style": {
+				"navigationBarTitleText":"修改收货信息"
+			}
+		},
+		{
+			"path": "pages/index/contractManagements/yifang",
+			"style": {
+				"navigationBarTitleText": "修改乙方信息"
+			}
+		},
+		{
+			"path": "pages/template/examine",
+			"style": {
+				"navigationBarTitleText":"审核结果"
+			}
+		},
+		{
+			"path": "pages/template/addCost",
+			"style": {
+				"navigationBarTitleText":"添加费用"
+			}
+		},
+		{
+			"path": "pages/template/selectEmail",
+			"style": {
+				"navigationBarTitleText":"选择账号"
+			}
+		},
+		{
+			"path": "pages/index/product_info",
+			"style": {
+				"navigationBarTitleText":"产品信息"
+			}
+		},
+		{
+			"path": "pages/index/orderSettlement/problem_type",
+			"style": {
+				"navigationBarTitleText":"问题类型"
+			}
+		},
+		{
+			"path": "pages/target/achieveStatis",
+			"style": {
+				"navigationBarTitleText": "业绩目标"
+			}
+		},
+		{
+			"path": "pages/target/myTarget",
+			"style": {
+				"navigationBarTitleText": "个人目标"
+			}
+		},
+		{
+			"path": "pages/target/history_edit",
+			"style": {
+				"navigationBarTitleText": "历史记录"
+			}
+		},
+		{
+			"path": "pages/target/history_detail",
+			"style": {
+				"navigationBarTitleText": "详情"
+			}
+		}
+	],
+	"subPackages":[
+		{
+			"root": "pagesA/customerInfo",
+			"pages": [
+				{
+					"path": "allOperation/transferAll",
+					"style":{
+						"navigationBarTitleText":"更换负责人"
+					}
+				},
+				{
+					"path": "allOperation/selectStaff",
+					"style": {
+						"navigationBarTitleText":"选择员工"
+					}
+				},
+				{
+					"path": "contract/invoice_logistics",
+					"style": {
+						"navigationBarTitleText":"发票物流"
+					}
+				},
+				{
+					"path": "contract/wirte_receipt",
+					"style": {
+						"navigationBarTitleText":"回执单信息"
+					}
+				},
+				{
+					"path": "myCustomer/batchList",
+					"style": {
+						"navigationBarTitleText":"批量操作"
+					}
+				},
+				{
+					"path": "myCustomer/customerDetail",
+					"style": {
+						"navigationBarTitleText":"客户详情"
+					}
+				},
+				{
+					"path": "myCustomer/record_detail",
+					"style": {
+						"navigationBarTitleText":"跟进详情"
+					}
+				},
+				{
+					"path": "workorder/repotRepair",
+					"style": {
+						"navigationBarTitleText":"返厂维修"
+					}
+				},
+				{
+					"path": "workorder/ondoorRepair",
+					"style": {
+						"navigationBarTitleText":"上门维修"
+					}
+				},
+				{
+					"path": "workorder/addParts",
+					"style": {
+						"navigationBarTitleText":"新增配件"
+					}
+				},
+				{
+					"path": "visit/createVisit",
+					"style": {
+						"navigationBarTitleText":"新建任务"
+					}
+				},
+				{
+					"path": "visit/add_followup",
+					"style": {
+						"navigationBarTitleText":"新建跟进"
+					}
+				},
+				{
+					"path": "visit/add_phone_followup",
+					"style": {
+						"navigationBarTitleText":"新建跟进"
+					}
+				},
+				{
+					"path": "visit/visitList",
+					"style": {
+						"navigationBarTitleText":"任务列表"
+					}
+				},
+				{
+					"path": "visit/visitDetail",
+					"style": {
+						"navigationBarTitleText":"任务详情"
+					}
+				},
+				{
+					"path": "visit/add_Customer_demand",
+					"style": {
+						"navigationBarTitleText":"添加客户需求"
+					}
+				},
+				{
+					"path": "visit/editVisit",
+					"style": {
+						"navigationBarTitleText":"修改任务"
+					}
+				},
+				{
+					"path": "visit/chexiaoVisit",
+					"style": {
+						"navigationBarTitleText":"撤销任务"
+					}
+				},
+				{
+					"path": "visit/revokeVisit",
+					"style": {
+						"navigationBarTitleText":"撤销备注"
+					}
+				},
+				{
+					"path": "visit/phoneRepair",
+					"style": {
+						"navigationBarTitleText":"电话维修结果"
+					}
+				},
+				{
+					"path": "visit/signDetail",
+					"style": {
+						"navigationBarTitleText":"详情"
+					}
+				},
+				{
+					"path": "visit/signVisit",
+					"style": {
+						"navigationBarTitleText": "开始工作"
+					}
+				},
+				{
+					"path": "visit/arrivalVisit",
+					"style": {
+						"navigationBarTitleText": "到达签到"
+					}
+				},
+				{
+					"path": "visit/completeVisit",
+					"style": {
+						"navigationBarTitleText": "完成签到"
+					}
+				},
+				{
+					"path": "visit/visit_title_template",
+					"style": {
+						"navigationBarTitleText":"任务标题"
+					}
+				},
+				{
+					"path": "visit/needTemplate",
+					"style": {
+						"navigationBarTitleText": "需求模板"
+					}
+				},
+				{
+					"path": "visit/visitEnd",
+					"style": {
+						"navigationBarTitleText":"完成任务"
+					}
+				},
+				{
+					"path": "visit/depotrepart/detail",
+					"style": {
+						"navigationBarTitleText":"返厂维修详情"
+					}
+				},
+				{
+					"path": "visit/depotrepart/discountMoney",
+					"style": {
+						"navigationBarTitleText":"优惠金额"
+					}
+				},
+				{
+					"path": "visit/depotrepart/edit",
+					"style": {
+						"navigationBarTitleText":"修改任务"
+					}
+				},
+				{
+					"path": "visit/depotrepart/chexiaoDepot",
+					"style": {
+						"navigationBarTitleText":"撤销任务"
+					}
+				},
+				{
+					"path": "visit/depotrepart/writeRepair",
+					"style": {
+						"navigationBarTitleText":"维修结果"
+					}
+				},
+				{
+					"path": "visit/depotrepart/editRepair",
+					"style": {
+						"navigationBarTitleText":"修改维修结果"
+					}
+				},
+				{
+					"path": "visit/depotrepart/repair",
+					"style": {
+						"navigationBarTitleText":"是否继续维修"
+					}
+				},
+				{
+					"path": "visit/depotrepart/writePartlist",
+					"style": {
+						"navigationBarTitleText":"填写配件清单"
+					}
+				},
+				{
+					"path": "visit/depotrepart/collection",
+					"style": {
+						"navigationBarTitleText":"收款金额"
+					}
+				},
+				{
+					"path": "visit/depotrepart/evalQR",
+					"style": {
+						"navigationBarTitleText":"评价二维码"
+					}
+				},
+				{
+					"path": "visit/depotrepart/inputExpense",
+					"style": {
+						"navigationBarTitleText":"录入费用"
+					}
+				},
+				{
+					"path": "visit/depotrepart/editExpense",
+					"style": {
+						"navigationBarTitleText":"修改费用"
+					}
+				},
+				{
+					"path": "visit/depotrepart/editLogistics",
+					"style": {
+						"navigationBarTitleText":"修改物流信息"
+					}
+				},
+				{
+					"path": "order/createOrder",
+					"style": {
+						"navigationBarTitleText":"新建合同"
+					}
+				},
+				{
+					"path": "order/editOrder",
+					"style": {
+						"navigationBarTitleText":"编辑合同"
+					}
+				},
+				{
+					"path": "order/editExamineOrder",
+					"style": {
+						"navigationBarTitleText":"编辑合同"
+					}
+				},
+				{
+					"path": "payment/createPayment",
+					"style": {
+						"navigationBarTitleText":"新建回款"
+					}
+				},
+				{
+					"path": "payment/paymentDetail",
+					"style": {
+						"navigationBarTitleText":"回款详情"
+					}
+				},
+				{
+					"path": "payment/editPayment",
+					"style": {
+						"navigationBarTitleText":"编辑回款"
+					}
+				},
+				{
+					"path": "offer/createOffer",
+					"style": {
+						"navigationBarTitleText":"新建报价"
+					}
+				},
+				{
+					"path": "createCustomer",
+					"style": {
+						"navigationBarTitleText":"新增客户"
+					}
+				},
+				{
+					"path": "team/index",
+					"style": {
+						"navigationBarTitleText":"团队"
+					}
+				},
+				{
+					"path": "team/add",
+					"style": {
+						"navigationBarTitleText":"添加团队"
+					}
+				},
+				{
+					"path": "team/edit",
+					"style": {
+						"navigationBarTitleText":"修改团队"
+					}
+				},
+				{
+					"path": "otherList/contact",
+					"style": {
+						"navigationBarTitleText":"联系人列表"
+					}
+				},
+				{
+					"path": "otherList/quotail",
+					"style":{
+						"navigationBarTitleText":"报价列表"
+					}
+				},
+				{
+					"path": "otherList/contract",
+					"style": {
+						"navigationBarTitleText":"合同列表"
+					}
+				},
+				{
+					"path": "otherList/product",
+					"style": {
+						"navigationBarTitleText":"产品列表"
+					}
+				},
+				{
+					"path": "otherList/payment",
+					"style": {
+						"navigationBarTitleText":"回款列表"
+					}
+				},
+				{
+					"path": "otherList/cost",
+					"style": {
+						"navigationBarTitleText":"费用列表"
+					}
+				},
+				{
+					"path": "otherList/afterSale",
+					"style": {
+						"navigationBarTitleText":"售后工单"
+					}
+				},
+				{
+					"path": "editCustomer",
+					"style": {
+						"navigationBarTitleText":"编辑客户"
+					}
+				},
+				{
+					"path": "transferCustomer",
+					"style": {
+						"navigationBarTitleText":"转移客户"
+					}
+				},
+				{
+					"path": "cost/createCost",
+					"style": {
+						"navigationBarTitleText":"新建费用"
+					}
+				},
+				{
+					"path": "cost/cashierSheet",
+					"style": {
+						"navigationBarTitleText":"出纳列表"
+					}
+				},
+				{
+					"path": "cost/list",
+					"style": {
+						"navigationBarTitleText":"费用管理"
+					}
+				},
+				{
+					"path": "cost/examineCost",
+					"style": {
+						"navigationBarTitleText":"费用审核"
+					}
+				},
+				{
+					"path": "cost/detail",
+					"style": {
+						"navigationBarTitleText":"费用详情"
+					}
+				},
+				{
+					"path": "contact/createContact",
+					"style": {
+						"navigationBarTitleText": "新建联系人"
+					}
+				},
+				{
+					"path": "contact/contactDetail",
+					"style": {
+						"navigationBarTitleText":"联系人详情"
+					}
+				},
+				{
+					"path": "contact/editContact",
+					"style": {
+						"navigationBarTitleText":"修改联系人信息"
+					}
+				},
+				{
+					"path": "visit/achieve_goal",
+					"style": {
+						"navigationBarTitleText":"任务目的"
+					}
+				},
+				{
+					"path": "product/add_contract_product",
+					"style": {
+						"navigationBarTitleText":"添加产品"
+					}
+				},
+				{
+					"path": "level/changeLevel",
+					"style": {
+						"navigationBarTitleText":"级别变更"
+					}
+				},
+				{
+					"path": "level/level_template",
+					"style": {
+						"navigationBarTitleText":"变更原因"
+					}
+				},
+				{
+					"path": "cost/createNewCost",
+					"style": {
+						"navigationBarTitleText":"新建费用"
+					}
+				},
+				{
+					"path": "cost/expDetail",
+					"style": {
+						"navigationBarTitleText":"费用明细"
+					}
+				},
+				{
+					"path": "merge/list",
+					"style": {
+						"navigationBarTitleText":"合并客户"
+					}
+				},
+				{
+					"path": "merge/mergeDetail",
+					"style": {
+						"navigationBarTitleText":"合并详情"
+					}
+				}
+			]
+		},
+		{
+			"root": "pagesA/afterSales",
+			"pages": [
+				{
+					"path": "partsWorkorder/parts_distribution",
+					"style": {
+						"navigationBarTitleText":"配件配送"
+					}
+				},
+				{
+					"path": "partsWorkorder/parts_install",
+					"style": {
+						"navigationBarTitleText":"配件安装"
+					}
+				},
+				{
+					"path": "workorder/distribution_word",
+					"style": {
+						"navigationBarTitleText":"配送工单"
+					}
+				},
+				{
+					"path": "workorder/fill_receipt",
+					"style": {
+						"navigationBarTitleText":"填写回执单"
+					}
+				},
+				{
+					"path": "workorder/quality_order_detail",
+					"style": {
+						"navigationBarTitleText":"品质异常单"
+					}
+				},
+				{
+					"path": "workorder/write_quality_cause",
+					"style": {
+						"navigationBarTitleText":"品质异常改进"
+					}
+				},
+				{
+					"path": "workorder/fill_peisong_info",
+					"style": {
+						"navigationBarTitleText":"配送信息"
+					}
+				},
+				{
+					"path": "workorder/fill_wuliu_info",
+					"style": {
+						"navigationBarTitleText":"物流信息"
+					}
+				},
+				{
+					"path": "returnVisit/index",
+					"style": {
+						"navigationBarTitleText":"回访列表"
+					}
+				},
+				{
+					"path": "install_workorder/title_template",
+					"style": {
+						"navigationBarTitleText":"工单标题"
+					}
+				},
+				{
+					"path": "designWorkOrder/addDesignOrder",
+					"style": {
+						"navigationBarTitleText":"设计工单"
+					}
+				},
+				{
+					"path": "designWorkOrder/editDesign",
+					"style": {
+						"navigationBarTitleText":"修改工单"
+					}
+				},
+				{
+					"path": "designWorkOrder/designDetail",
+					"style": {
+						"navigationBarTitleText":"工单详情"
+					}
+				},
+				{
+					"path": "designWorkOrder/complete",
+					"style": {
+						"navigationBarTitleText":"完成"
+					}
+				},
+				{
+					"path": "designWorkOrder/assist",
+					"style": {
+						"navigationBarTitleText":"邀请协作"
+					}
+				},
+				{
+					"path": "designWorkOrder/fail",
+					"style": {
+						"navigationBarTitleText":"设计失败"
+					}
+				},
+				{
+					"path": "phoneAftersale/add",
+					"style": {
+						"navigationBarTitleText":"电话售后"
+					}
+				},
+				{
+					"path": "phoneAftersale/detail",
+					"style": {
+						"navigationBarTitleText":"工单详情"
+					}
+				},
+				{
+					"path": "phoneAftersale/edit",
+					"style": {
+						"navigationBarTitleText":"修改工单"
+					}
+				},
+				{
+					"path": "phoneAftersale/complete",
+					"style": {
+						"navigationBarTitleText":"完成工单"
+					}
+				},
+				{
+					"path": "moreOperation/discuss",
+					"style": {
+						"navigationBarTitleText":"讨论列表"
+					}
+				},
+				{
+					"path": "moreOperation/discussDetail",
+					"style": {
+						"navigationBarTitleText":"讨论详情"
+					}
+				},
+				{
+					"path": "moreOperation/createDiscuss",
+					"style": {
+						"navigationBarTitleText":"发起讨论"
+					}
+				},
+				{
+					"path": "moreOperation/editDiscuss",
+					"style": {
+						"navigationBarTitleText":"修改讨论"
+					}
+				},
+				{
+					"path": "moreOperation/circulate/index",
+					"style": {
+						"navigationBarTitleText":"相关团队"
+					}
+				},
+				{
+					"path": "moreOperation/circulate/edit",
+					"style": {
+						"navigationBarTitleText":"相关团队"
+					}
+				},
+				{
+					"path": "moreOperation/circulate/add",
+					"style": {
+						"navigationBarTitleText":"添加团队成员"
+					}
+				},
+				{
+					"path": "moreOperation/approver",
+					"style": {
+						"navigationBarTitleText":"添加审批人"
+					}
+				},
+				{
+					"path": "moreOperation/toCirculate",
+					"style": {
+						"navigationBarTitleText":"传阅"
+					}
+				},
+				{
+					"path": "index",
+					"style": {
+						"navigationBarTitleText":"工单"
+					}
+				},
+				{
+					"path": "confirmReceipt",
+					"style": {
+						"navigationBarTitleText":"确认收款"
+					}
+				},
+				{
+					"path": "workorderDetail",
+					"style": {
+						"navigationBarTitleText":"工单详情"
+					}
+				},
+				{
+					"path": "toWriterVisit",
+					"style": {
+						"navigationBarTitleText":"回访结果"
+					}
+				},
+				{
+					"path": "edit_work_partinfo",
+					"style": {
+						"navigationBarTitleText":"修改配件信息"
+					}
+				},
+				{
+					"path": "editOtherWork",
+					"style": {
+						"navigationBarTitleText":"修改工单"
+					}
+				},
+				{
+					"path": "editWorkorder",
+					"style": {
+						"navigationBarTitleText":"修改工单"
+					}
+				},
+				{
+					"path": "chexiaoWork",
+					"style": {
+						"navigationBarTitleText":"撤销工单"
+					}
+				},
+				{
+					"path": "revokeWork",
+					"style": {
+						"navigationBarTitleText":"终止备注"
+					}
+				},
+				{
+					"path": "toSign",
+					"style": {
+						"navigationBarTitleText":"工单备注"
+					}
+				},
+				{
+					"path": "everyDay_sign",
+					"style": {
+						"navigationBarTitleText":"工单签到"
+					}
+				},
+				{
+					"path": "toDoorSign",
+					"style": {
+						"navigationBarTitleText":"开始工单"
+					}
+				},
+				{
+					"path": "arriveSign",
+					"style": {
+						"navigationBarTitleText":"到达签到"
+					}
+				},
+				{
+					"path": "assign_staff",
+					"style": {
+						"navigationBarTitleText":"指派员工"
+					}
+				},
+				{
+					"path": "turn_staff",
+					"style": {
+						"navigationBarTitleText":"指派员工"
+					}
+				},
+				{
+					"path": "addLogisticsInfo",
+					"style": {
+						"navigationBarTitleText":"添加物流信息"
+					}
+				},
+				{
+					"path": "productNumber",
+					"style": {
+						"navigationBarTitleText":"添加设备编号"
+					}
+				},
+				{
+					"path": "arriveCost",
+					"style": {
+						"navigationBarTitleText":"完成工单"
+					}
+				},
+				{
+					"path": "install_complete",
+					"style": {
+						"navigationBarTitleText":"完成工单"
+					}
+				},
+				{
+					"path": "phone_guidance",
+					"style": {
+						"navigationBarTitleText":"电话远程指导"
+					}
+				},
+				{
+					"path": "program_list",
+					"style": {
+						"navigationBarTitleText":"方案列表"
+					}
+				},
+				{
+					"path": "workorder_payment",
+					"style": {
+						"navigationBarTitleText":"结算工单"
+					}
+				},
+				{
+					"path": "proofing/assist",
+					"style": {
+						"navigationBarTitleText": "其他协助部门"
+					}
+				},
+				{
+					"path": "proofing/applicationStaff",
+					"style": {
+						"navigationBarTitleText": "指派员工"
+					}
+				},
+				{
+					"path": "proofing/assist_detail",
+					"style": {
+						"navigationBarTitleText":"协助任务详情"
+					}
+				},
+				{
+					"path": "proofing/assist_result",
+					"style": {
+						"navigationBarTitleText":"协助任务"
+					}
+				}
+			]
+		},
+		{
+			"root": "pagesA/user",
+			"pages":[
+				{
+					"path": "work_approval/index",
+					"style": {
+						"navigationBarTitleText":"审批"
+					}
+				},
+				{
+					"path": "editPassword",
+					"style": {
+						"navigationBarTitleText":"修改密码"
+					}
+				},
+				{
+					"path": "setPersonData",
+					"style": {
+						"navigationBarTitleText":"编辑个人资料"
+					}
+				},
+				{
+					"path": "stafflist/index",
+					"style": {
+						"navigationBarTitleText":"团队成员"
+					}
+				},
+				{
+					"path": "stafflist/staffDetail",
+					"style": {
+						"navigationBarTitleText":"员工详情"
+					}
+				},
+				{
+					"path": "work_approval/createTab",
+					"style": {
+						"navigationBarTitleText":"新建审批"
+					}
+				},
+				{
+					"path": "work_approval/createApproval",
+					"style": {
+						"navigationBarTitleText":"新建审批"
+					}
+				},
+				{
+					"path": "work_approval/workOvertime",
+					"style": {
+						"navigationBarTitleText":"加班申请表"
+					}
+				},
+				{
+					"path": "work_approval/leaveForm",
+					"style": {
+						"navigationBarTitleText":"请假单"
+					}
+				},
+				{
+					"path": "work_approval/approvalDetail",
+					"style": {
+						"navigationBarTitleText":"审批详情"
+					}
+				},
+				{
+					"path": "knowledge_base/index",
+					"style": {
+						"navigationBarTitleText":"知识库"
+					}
+				},
+				{
+					"path": "knowledge_base/list",
+					"style": {
+						"navigationBarTitleText":"列表"
+					}
+				},
+				{
+					"path": "knowledge_base/addArticle",
+					"style": {
+						"navigationBarTitleText":"添加"
+					}
+				},
+				{
+					"path": "knowledge_base/detail",
+					"style": {
+						"navigationBarTitleText":"详情"
+					}
+				},
+				{
+					"path": "examineing",
+					"style": {
+						"navigationBarTitleText":"待审核"
+					}
+				},
+				{
+					"path": "business_infomation/index",
+					"style": {
+						"navigationBarTitleText":"工商信息"
+					}
+				},
+				{
+					"path": "business_infomation/detail",
+					"style": {
+						"navigationBarTitleText":"企业详情"
+					}
+				},
+				{
+					"path": "business_infomation/baseinfo",
+					"style": {
+						"navigationBarTitleText":"基本信息"
+					}
+				},
+				{
+					"path": "business_infomation/senior_info",
+					"style": {
+						"navigationBarTitleText":"高管信息"
+					}
+				},
+				{
+					"path": "business_infomation/shareholder_info",
+					"style": {
+						"navigationBarTitleText":"股东信息"
+					}
+				},
+				{
+					"path": "business_infomation/change_info",
+					"style": {
+						"navigationBarTitleText":"变更信息"
+					}
+				},
+				{
+					"path": "business_infomation/branch",
+					"style": {
+						"navigationBarTitleText":"分支机构"
+					}
+				},
+				{
+					"path": "business_infomation/abnormal",
+					"style": {
+						"navigationBarTitleText":"经营异常"
+					}
+				},
+				{
+					"path": "team/index",
+					"style":{
+						"navigationBarTitleText": "我的团队"
+					}
+				},
+				{
+					"path": "mailbox/bindMailbox",
+					"style": {
+						"navigationBarTitleText":"绑定邮箱"
+					}
+				},
+				{
+					"path": "mailbox/index",
+					"style": {
+						"navigationBarTitleText":"我的邮箱"
+					}
+				},
+				{
+					"path": "mailbox/mail_detail",
+					"style": {
+						"navigationBarTitleText":"邮件详情"
+					}
+				},
+				{
+					"path": "mailbox/send_mail",
+					"style": {
+						"navigationBarTitleText":"发送邮件"
+					}
+				}
+			]
+		},
+		{
+			"root": "pagesB",
+			"pages":[
+				{
+					"path": "data_analysis/index",
+					"style": {
+						"navigationBarTitleText":"数据统计"
+					}
+				},
+				{
+					"path": "order/index",
+					"style": {
+						"navigationBarTitleText":"订单列表"
+					}
+				},
+				{
+					"path": "order/detail",
+					"style": {
+						"navigationBarTitleText":"订单详情"
+					}
+				},
+				{
+					"path": "order/writeInfo",
+					"style": {
+						"navigationBarTitleText":"填写信息"
+					}
+				},
+				{
+					"path":"collection/index",
+					"style": {
+						"navigationBarTitleText":"收款列表"
+					}
+				},
+				{
+					"path": "collection/workorder_cost_confirm",
+					"style": {
+						"navigationBarTitleText":"确认收款"
+					}
+				},
+				{
+					"path": "collection/queryList/contract",
+					"style": {
+						"navigationBarTitleText":"合同"
+					}
+				},
+				{
+					"path": "collection/queryList/customer",
+					"style": {
+						"navigationBarTitleText":"客户"
+					}
+				},
+				{
+					"path": "collection/queryList/event",
+					"style": {
+						"navigationBarTitleText":"任务"
+					}
+				},
+				{
+					"path": "collection/queryList/quote",
+					"style": {
+						"navigationBarTitleText":"报价单"
+					}
+				},
+				{
+					"path": "collection/queryList/receivables",
+					"style": {
+						"navigationBarTitleText":"回款"
+					}
+				},
+				{
+					"path": "collection/queryList/visit",
+					"style": {
+						"navigationBarTitleText":"拜访"
+					}
+				},
+				{
+					"path": "collection/queryList/workorder",
+					"style": {
+						"navigationBarTitleText":"工单"
+					}
+				},
+				{
+					"path": "collection/queryList/followup",
+					"style": {
+						"navigationBarTitleText":"跟进"
+					}
+				},
+				{
+					"path": "cluesManagement/followUpDetail/followUpDetail",
+					"style": {
+						"navigationBarTitleText": "详情"
+					}
+				},
+				{
+					"path": "cluesManagement/newClues/newClues",
+					"style": {
+						"navigationBarTitleText": "新增线索"
+					}
+				},
+				{
+					"path": "cluesManagement/cluesMore/editInfo",
+					"style": {
+						"navigationBarTitleText": "编辑线索"
+					}
+				},
+				{
+					"path": "cluesManagement/cluesManagement",
+					"style": {
+						"navigationBarTitleText": "线索管理"
+					}
+				},
+				{
+					"path": "cluesManagement/cluesMore/cluesMore",
+					"style": {
+						"navigationBarTitleText": "线索详情"
+					}
+				},
+				{
+					"path": "cluesManagement/cluesMore/transfer",
+					"style": {
+						"navigationBarTitleText": "更换负责人"
+					}
+				},
+				{
+					"path": "cluesManagement/newFllow",
+					"style": {
+						"navigationBarTitleText": "新建跟进"
+					}
+				},
+				{
+					"path": "business/index",
+					"style": {
+						"navigationBarTitleText": "商机",
+						"navigationStyle": "custom"
+					}
+				},
+				{
+					"path": "business/businessStatis",
+					"style": {
+						"navigationBarTitleText": "商机统计"
+					}
+				},
+				{
+					"path": "business/customer_business",
+					"style": {
+						"navigationBarTitleText": "商机"
+					}
+				},
+				{
+					"path": "business/addBusiness",
+					"style": {
+						"navigationBarTitleText": "添加商机"
+					}
+				},
+				{
+					"path": "business/detail",
+					"style": {
+						"navigationBarTitleText": "商机详情"
+					}
+				},
+				{
+					"path": "business/editBusiness",
+					"style": {
+						"navigationBarTitleText": "修改商机"
+					}
+				},
+				{
+					"path": "business/trans",
+					"style": {
+						"navigationBarTitleText": "转移商机"
+					}
+				},
+				{
+					"path": "business/advance",
+					"style": {
+						"navigationBarTitleText": "推进商机"
+					}
+				},
+				{
+					"path": "cluepool/index",
+					"style": {
+						"navigationBarTitleText": "线索池"
+					}
+				},
+				{
+					"path": "cluepool/addCluePool",
+					"style": {
+						"navigationBarTitleText": "添加线索"
+					}
+				},
+				{
+					"path": "cluepool/clueDetail",
+					"style": {
+						"navigationBarTitleText": "线索详情"
+					}
+				},
+				{
+					"path": "cluepool/editInfo",
+					"style": {
+						"navigationBarTitleText": "编辑线索"
+					}
+				},
+				{
+					"path": "cluepool/transfer",
+					"style": {
+						"navigationBarTitleText": "分配线索"
+					}
+				},
+				{
+					"path": "punchclock/index",
+					"style": {
+						"navigationBarTitleText": "打卡"
+					}
+				},
+				{
+					"path": "punchclock/normalClock",
+					"style": {
+						"navigationBarTitleText": "上下班打卡"
+					}
+				},
+				{
+					"path": "punchclock/punchOut",
+					"style": {
+						"navigationBarTitleText": "外出打卡"
+					}
+				},
+				{
+					"path": "punchclock/punchstatis/supplementaryCard",
+					"style": {
+						"navigationBarTitleText": "打卡补卡"
+					}
+				},
+				{
+					"path": "punchclock/punchstatis/index",
+					"style": {
+						"navigationBarTitleText": "统计"
+					}
+				},
+				{
+					"path": "punchclock/punchstatis/monthStatis",
+					"style": {
+						"navigationBarTitleText": "月统计"
+					}
+				},
+				{
+					"path": "punchclock/punchstatis/dayStatis",
+					"style": {
+						"navigationBarTitleText": "日统计"
+					}
+				},
+				{
+					"path":"punchclock/clockrules/index",
+					"style": {
+						"navigationBarTitleText": "打卡规则"
+					}
+				},
+				{
+					"path": "punchclock/clockrules/addRules",
+					"style": {
+						"navigationBarTitleText": "打卡规则"
+					}
+				},
+				{
+					"path": "punchclock/clockrules/clockTime",
+					"style": {
+						"navigationBarTitleText":"打卡时间"
+					}
+				},
+				{
+					"path": "punchclock/clockrules/addClocktime",
+					"style": {
+						"navigationBarTitleText": "添加打卡时间"
+					}
+				},
+				{
+					"path": "punchclock/clockrules/clockPeriod",
+					"style": {
+						"navigationBarTitleText": "打卡时段设置"
+					}
+				},
+				{
+					"path": "punchclock/clockrules/punchPosition",
+					"style": {
+						"navigationBarTitleText": "打卡位置"
+					}
+				},
+				{
+					"path": "punchclock/clockrules/addPosition",
+					"style": {
+						"navigationBarTitleText": "添加打卡位置"
+					}
+				},
+				{
+					"path": "punchclock/punchstatis/leave",
+					"style": {
+						"navigationBarTitleText": "请假"
+					}
+				},
+				{
+					"path": "punchclock/card/index",
+					"style": {
+						"navigationBarTitleText": "补卡记录"
+					}
+				},
+				{
+					"path": "punchclock/card/detail",
+					"style": {
+						"navigationBarTitleText": "补卡详情"
+					}
+				},
+				{
+					"path": "punchclock/leave/index",
+					"style": {
+						"navigationBarTitleText": "请假记录"
+					}
+				},
+				{
+					"path": "punchclock/leave/detail",
+					"style": {
+						"navigationBarTitleText": "请假详情"
+					}
+				},
+				{
+					"path": "punchclock/punchstatis/clockOutDetail",
+					"style": {
+						"navigationBarTitleText": "外勤详情"
+					}
+				},
+				{
+					"path": "workreport/list",
+					"style": {
+						"navigationBarTitleText": "工作报告"
+					}
+				},
+				{
+					"path": "workreport/addReports",
+					"style": {
+						"navigationBarTitleText": "添加工作报告"
+					}
+				},
+				{
+					"path": "workreport/createWork",
+					"style": {
+						"navigationBarTitleText": "创建工作报告"
+					}
+				},
+				{
+					"path": "workreport/workDetail",
+					"style": {
+						"navigationBarTitleText": "报告详情"
+					}
+				},
+				{
+					"path": "news/theReminder",
+					"style": {
+						"navigationBarTitleText": "提醒消息"
+					}
+				},
+				{
+					"path": "news/notice",
+					"style": {
+						"navigationBarTitleText": "公告"
+					}
+				},
+				{
+					"path": "news/noticeDetail",
+					"style": {
+						"navigationBarTitleText": "公告详情"
+					}
+				},
+				{
+					"path": "news/workNews",
+					"style": {
+						"navigationBarTitleText": "工作动态"
+					}
+				},
+				{
+					"path": "news/needDeal",
+					"style": {
+						"navigationBarTitleText": "待办事项"
+					}
+				},
+				{
+					"path": "news/dataList",
+					"style": {
+						"navigationBarTitleText": "待办列表"
+					}
+				},
+				{
+					"path": "news/needrecord",
+					"style": {
+						"navigationBarTitleText": "待跟进记录"
+					}
+				},
+				{
+					"path": "news/approvelManage/index",
+					"style": {
+						"navigationBarTitleText": "审批管理"
+					}
+				},
+				{
+					"path": "news/approvelManage/list",
+					"style": {
+						"navigationBarTitleText": "审批信息"
+					}
+				},
+				{
+					"path": "signin/busSign",
+					"style": {
+						"navigationBarTitleText": "出差签到"
+					}
+				},
+				{
+					"path": "signin/signin",
+					"style": {
+						"navigationBarTitleText": "出差签到"
+					}
+				},
+				{
+					"path": "signin/signDetail",
+					"style": {
+						"navigationBarTitleText": "签到详情"
+					}
+				},
+				{
+					"path": "followRecord/followRecord",
+					"style": {
+						"navigationBarTitleText": "跟进记录"
+					}
+				},
+				{
+					"path": "followRecord/addfollow",
+					"style": {
+						"navigationBarTitleText": "新增跟进"
+					}
+				},
+				{
+					"path": "followRecord/needrecord",
+					"style": {
+						"navigationBarTitleText": "待跟进记录"
+					}
+				},
+				{
+					"path": "payplan/index",
+					"style": {
+						"navigationBarTitleText": "回款计划"
+					}
+				},
+				{
+					"path": "payplan/addPaymentPlan",
+					"style": {
+						"navigationBarTitleText": "添加回款计划"
+					}
+				},
+				{
+					"path": "invoice/index",
+					"style": {
+						"navigationBarTitleText": "发票管理"
+					}
+				},
+				{
+					"path": "invoice/addInvoice",
+					"style": {
+						"navigationBarTitleText": "添加发票"
+					}
+				},
+				{
+					"path": "invoice/detail",
+					"style": {
+						"navigationBarTitleText": "发票详情"
+					}
+				},
+				{
+					"path": "invoice/editInvoice",
+					"style": {
+						"navigationBarTitleText": "编辑发票"
+					}
+				},
+				{
+					"path": "invoice/editBiaoji",
+					"style": {
+						"navigationBarTitleText": "标记开票"
+					}
+				}
+			]
+		},
+		{
+			"root": "pagesC",
+			"pages":[
+				{
+					"path": "journal/index",
+					"style": {
+						"navigationBarTitleText":"日志"
+					}
+				},
+				{
+					"path": "journal/journal_detail",
+					"style": {
+						"navigationBarTitleText":"日志详情"
+					}
+				},
+				{
+					"path": "quotation/index",
+					"style": {
+						"navigationBarTitleText":"报价单"
+					}
+				},
+				{
+					"path": "quotation/addQuotation",
+					"style": {
+						"navigationBarTitleText":"新建报价单"
+					}
+				},
+				{
+					"path": "quotation/detail",
+					"style": {
+						"navigationBarTitleText":"报价单详情"
+					}
+				},
+				{
+					"path": "sparepart/index",
+					"style": {
+						"navigationBarTitleText":"库存管理"
+					}
+				},
+				{
+					"path": "sparepart/myApply",
+					"style": {
+						"navigationBarTitleText":"我申请的"
+					}
+				},
+				{
+					"path": "sparepart/myapplyDetail",
+					"style": {
+						"navigationBarTitleText":"详情"
+					}
+				},
+				{
+					"path": "sparepart/sparepartList",
+					"style": {
+						"navigationBarTitleText":"备件列表"
+					}
+				},
+				{
+					"path": "sparepart/sparepartDetail",
+					"style": {
+						"navigationBarTitleText":"备件详情"
+					}
+				},
+				{
+					"path": "sparepart/inLibrary",
+					"style": {
+						"navigationBarTitleText":"备件申请"
+					}
+				},
+				{
+					"path": "achievementCompletion/achievementObject",
+					"style": {
+						"navigationBarTitleText": "业绩完成度"
+					}
+				},
+				{
+					"path": "achievementCompletion/collect",
+					"style": {
+						"navigationBarTitleText": "销售简报"
+					}
+				}
+			]
+		}
+	],
+	"preloadRule":{
+		"pages/index/index": {
+			"network": "all",
+			"packages": ["__APP__"]
+		}
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "青动CRM",
+		"navigationBarBackgroundColor": "#008EFF",
+		"backgroundColor": "#fff",
+		"usingComponents": {}
+	},
+	"permission": {
+	    "scope.userLocation": {
+	      "desc": "你的位置信息将用于小程序位置接口的效果展示" // 高速公路行驶持续后台定位
+	    }
+	 }
+}
